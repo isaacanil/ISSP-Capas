@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20200928</CreaDate><CreaTime>21205300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20200928" Time="212053">RasterToPolygon Reclas_PDSI_2012 "D:\Datos_Climatico\Datos Sequia\shapefiles\PDSI_2012.shp" NO_SIMPLIFY Value SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
